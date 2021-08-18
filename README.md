@@ -1,4 +1,4 @@
-![Header](https://github.com/ByJumping/byjumping/blob/main/assets/header.png =850x200)
+![Header](https://github.com/ByJumping/byjumping/blob/main/assets/header.png)
 
 About me
 
