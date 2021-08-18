@@ -1,5 +1,5 @@
 ![Header](https://github.com/ByJumping/byjumping/blob/main/assets/header.png)
 
-About me
+## Я начинающий Frontend разработчик
 
 Languages and Tools
